@@ -4,6 +4,7 @@
 Em ambientes de TI, o gerenciamento de ativos é um desafio constante. Perder o controle de onde estão os equipamentos (computadores, impressoras, etc.) e quais softwares estão instalados pode levar a problemas de segurança, gastos desnecessários com licenças e dificuldades em planejar manutenções e upgrades.
 
 A ideia para este projeto surgiu da necessidade de resolver esse problema de forma simples e eficiente. A intenção é fornecer uma ferramenta que permita a um Analista de Suporte de TI manter um inventário organizado, garantindo que a equipe tenha uma visão clara de todos os ativos, desde o momento da aquisição até seu descarte.
+
 ---
 ## 2. Tecnologias Utilizadas
 O projeto foi desenvolvido usando as seguintes tecnologias, escolhidas por sua eficiência, simplicidade e relevância no mercado de TI:
